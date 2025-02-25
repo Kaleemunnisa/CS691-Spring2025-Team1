@@ -16,8 +16,7 @@ Here are a few screenshots from as output video:
 * Fine Tuned YOLO for tennis ball detection
 * Court Key point extraction
 
-* Trained YOLOV5 model: https://drive.google.com/file/d/1UZwiG1jkWgce9lNhxJ2L0NVjX1vGM05U/view?usp=sharing
-* Trained tennis court key point model: https://drive.google.com/file/d/1QrTOF1ToQ4plsSZbkBs3zOLkVt3MBlta/view?usp=sharing
+* Training files https://drive.google.com/drive/u/1/folders/1CvuRq9DieXB5ZfuyLifMnc7-FKXOH7Ac
 
 ## Training
 * Tennis ball detector with YOLO: training/tennis_ball_detector_training.ipynb
